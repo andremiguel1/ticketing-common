@@ -1,6 +1,6 @@
 {
   "name": "@acmtickets/common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Common functionalities",
   "main": "./build/index.js",
   "typings": "./build/index.d.ts",
