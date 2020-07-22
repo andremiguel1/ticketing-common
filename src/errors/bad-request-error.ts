@@ -1,5 +1,5 @@
 import { CustomError } from './custom-error';
-//Criação do middleware para erros de Bad Request
+//Criação do middleware para erros de Bad Request qwefrwsf
 export class BadRequestError extends CustomError {
   statusCode = 400;
 
